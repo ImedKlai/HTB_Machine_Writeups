@@ -1,3 +1,4 @@
 vpn/
 Lame/debian-ssh/
-.obsidian
+.obsidian/
+./Lame/fiximg.sh
