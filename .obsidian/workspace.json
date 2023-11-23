@@ -11,8 +11,12 @@
             "id": "eaf81ed6317fe96d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lame/01-Recon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,6 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b1a4431e767bda0",
-  "lastOpenFiles": []
+  "active": "eaf81ed6317fe96d",
+  "lastOpenFiles": [
+    "Lame/ftp.md",
+    "Lame/01-Recon.md",
+    "Lame/distccd.md",
+    "Lame/04-Prev Esc.md",
+    "Lame/02-Exploitation.md",
+    "Lame/03-Local Enum.md",
+    "Lame/ssh.md",
+    "Lame/samba.md",
+    "Lame/Nmap.md",
+    "Lame/fiximg.sh",
+    "Lame/Attachemnts/fiximg.sh",
+    "Lame/Attachemnts/Pasted image 20231112193054.png",
+    "Lame/Attachemnts/Pasted image 20231112192601.png",
+    "Lame/Attachemnts/Pasted image 20231112190822.png",
+    "Lame/Attachemnts/Pasted image 20231112190607.png",
+    "Lame/Attachemnts/Pasted image 20231112190354.png",
+    "Lame/Attachemnts/Pasted image 20231112190144.png",
+    "Lame/Attachemnts/Pasted image 20231112185838.png",
+    "Lame/Attachemnts/Pasted image 20231112185732.png",
+    "Lame/Attachemnts/Pasted image 20231112170819.png",
+    "Lame/Attachemnts/Pasted image 20231112170319.png",
+    "Lame/Attachemnts",
+    "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.md"
+  ]
 }

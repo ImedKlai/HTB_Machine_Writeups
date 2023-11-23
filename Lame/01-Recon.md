@@ -1,9 +1,9 @@
 - checking for connectivity
 
-1. pinging IP address![[Pasted image 20231107153036.png]]
+1. pinging IP address![](../Attachemnts/Pasted%20image%2020231107153036.png)
 # Active Scanning 
 
-### [[Nmap]]
+### [[Nmap)
 - command : 
 ```
 sudo nmap -vvv -Pn -sCV -p0-65535 --reason -oN lame.nmap 
@@ -19,7 +19,7 @@ sudo nmap -vvv -Pn -sCV -p0-65535 --reason -oN lame.nmap
 
   | Service | port | 
   |---: |---: |  
-  | [[ftp]] |  21 | 
-  | [[ssh ]] | 22 | 
-  | [[samba]] |  139 / 445 | 
-  | [[distccd]] | 3632 | 
+  | [[ftp) |  21 | 
+  | [[ssh ) | 22 | 
+  | [[samba) |  139 / 445 | 
+  | [[distccd) | 3632 | 
